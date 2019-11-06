@@ -49,6 +49,8 @@ Sonrasında json olarak aldığımız verileri parçalayıp bir sınıfta tutmam
 	public void setKullanıcı_id(int kullanıcı_id) {
         this.kullanıcı_id = kullanıcı_id;  }
 	}
+	
+------------
 
 ##### MainActivity Class
 Şimdiyse en cafcaflı kısım.
